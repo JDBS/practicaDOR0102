@@ -1,0 +1,8 @@
+Ante la necesidad de reducir el código CSS al máximo tomé 
+la decisión de no incluir el color de los bordes como algo
+necesario para la realización del ejercicio dada la existencia
+de las herramientas de desarrollador (F12) para ver las cajas. 
+
+No obstante hay un CSS a parte "color.css".
+Si hiciese falta colorear los bordes se puede descomentar la 
+línea del HTML que lo incluye, de esta forma puede distinguirse.

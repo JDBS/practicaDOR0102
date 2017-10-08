@@ -1,0 +1,20 @@
+/* CSS Opcional para distinguir bordes sin pulsar F12*/
+.section{
+	border-color:darkred;
+}
+
+body>div{
+	border-color:darkgreen;
+}
+
+body{
+	border-color:blue;
+}
+
+nav{
+	border-color:brown;
+}
+
+.pie{
+	border-color:purple;
+}
